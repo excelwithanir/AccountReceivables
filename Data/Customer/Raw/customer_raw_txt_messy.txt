@@ -1,0 +1,155 @@
+Cust_ID|Cust_Name|Area|Customer_Type|Credit_Limit
+C001|Apex Meridian Industries|East|Large Enterprise|2500000.0
+ C002 |BlueRiver Mobility Solutions  |East|Mid-Market|1200000.0
+C003|Crestline Consumer Products|East|SME|500000.0
+C004|Northstar Technology Works|North|Large Enterprise|3000000.0
+C005|SilverOak Office Systems|North|Mid-Market|1000000.0
+C006|Himalaya Harvest Foods|North|SME|350000.0
+C007|Westbridge Auto Components|West|Large Enterprise|2200000.0
+C008|Harborview Industrial Supplies|West|Mid-Market|900000.0
+C009|Pioneer Business Services|West|SME|400000.0
+C010|Southern Crest Engineering|South|Large Enterprise|2800000.0
+C011|Chennai Digital Works|South|Mid-Market|1100000.0
+C012|Bengaluru Office Mart|South|SME|450000.0
+C013|Eastern Horizon Traders|East|Large Enterprise|2500000.0
+C014|Kolkata Commerce House|East|Mid-Market|
+C015|Sunrise Consumer Goods|West|SME|300000.0
+C016|Greenfield Manufacturing|East|Large Enterprise|1800000.0
+C017| Riverstone Engineering|West|Mid-Market|900000.0
+C018|MapleCore Business Solutions|North|SME|500000.0
+C019|Vertex Industrial Systems|South|Large Enterprise|1800000.0
+C020|Summit Trade Services|East|Mid-Market|900000.0
+C021|Oakridge Distribution|West|SME|500,000
+C022|ClearPath Technologies|North|Large Enterprise|1800000.0
+C023|BluePeak Components|South|Mid-Market|900000.0
+C024|Evercrest Manufacturing|East|SME|500000.0
+C025|GoldenArc Industries|West|Large Enterprise|1800000.0
+C026|UrbanEdge Solutions|North|Mid-Market|900000.0
+C027|BrightForge Engineering|South|SME|500000.0
+C028|PrimeVista Services|East|Large Enterprise|1800000.0
+C029|Redwood Commercial Systems|West|Mid-Market|900000.0
+C030|Skyline Industrial Products|North|SME|500000.0
+C031|CedarPoint Technologies|NORTH|Large Enterprise|1800000.0
+C032|Meadowbrook Consumer Goods|East|Mid-Market|900000.0
+C033|Ironwood Engineering|West|SME|500000.0
+C034|Lakeside Business Solutions|North|Large Enterprise|1800000.0
+C035|Grandview Trading|South|Mid-Market|900000.0
+C036|Silverline Industrial Works|East|SME|500000.0
+C037|Eastgate Technology Services| west |Large Enterprise|1800000.0
+C038|Westfield Components|North|Mid-Market|900000.0
+C039|Northbridge Manufacturing|South|SME|500000.0
+C040|Southgate Engineering|East|Large Enterprise|1800000.0
+C041|Riverside Office Solutions|West|Mid-Market|900000.0
+C054|Goldcrest Consumer Solutions|North|SME|500000.0
+C042|Hillcrest Consumer Products|North|SME|500000.0
+C043|Stonebridge Industrial Supply|South|Large Enterprise|1800000.0
+C044|Crownridge Technologies   |East|Mid-Market|900000.0
+C045|Oakfield Engineering|West|SME|500000.0
+C046|Crownridge Technologies|North|Large Enterprise|1800000.0
+C047|Brightstone Commercial|South|Mid-Market|900000.0
+C048|Evergreen Industrial Services|East|mid-market|500000.0
+C049|Clearwater Manufacturing|West|Large Enterprise|1800000.0
+C050|Meridian Crest Solutions|North|Mid-Market|900000.0
+C051|BlueOak Trading|South|SME|500000.0
+C052|Redstone Engineering Works|East|Large Enterprise|1800000.0
+C053|Pinehill Technologies|West|Mid-Market|900000.0
+C054|Goldcrest Consumer Solutions|North|SME|500000.0
+C055|Riverbend Industrial Systems|South|Large Enterprise|1800000.0
+C056|Summitview Services|East| SME|900000.0
+C057|Eastbrook Manufacturing|West|SME|500000.0
+C058|Westhaven Commercial|North|Large Enterprise|1800000.0
+C059|Northfield Business Solutions|South|Mid-Market|900000.0
+C060|Southridge Industrial Products|East|SME|500000.0
+C061|Mapleview Engineering|West|Large Enterprise|1800000.0
+C062|Harborstone Technologies|North|Mid-Market|900000.0
+C063|Cedarbrook Consumer Goods|South|SME|500000.0
+C064|Grandstone Trading Works|East|Large Enterprise|1800000.0
+C065|Lighthouse Business Services|West|Mid-Market|900000.0
+C066|Oakmont Industrial Solutions|North|SME|500000.0
+C067|Silverbrook Engineering|South|Large Enterprise|1800000.0
+C068|Greenridge Technologies|East|Mid-Market|900000.0
+C069|Brightwater Commercial Systems|south|SME|500000.0
+C070|Pinecrest Manufacturing|North|Large Enterprise|1800000.0
+C071|Ravenstone Industrial Works|South|Mid-Market|900000.0
+C072|Clearview Consumer Products|East|SME|500000.0
+C073|Hillstone Business Solutions|West|Large Enterprise|1,800,000
+C074|Westbrook Engineering|North|Mid-Market|900000.0
+C075|Eastwood Industrial Supply|South|SME|500000.0
+C076|Northcrest Technologies|East|Large Enterprise|1800000.0
+C054|Goldcrest Consumer Solutions|WEST|SME|700009.0
+C077|Southfield Commercial Services|West|Mid-Market|900000.0
+C078|Rivercrest Manufacturing|North|SME|500000.0
+C079|Bluehill Business Systems|South|Large Enterprise|1800000.0
+C080|Goldenbrook Engineering|East|Mid-Market|900000.0
+C081|Stonefield Consumer Goods|West|SME|500000.0
+C082|Crestwood Industrial Solutions|North|Large Enterprise|1800000.0
+C083|Maplecrest Technologies|South|LARGE ENTERPRISE|900000.0
+C084|Harborfield Trading|East|SME|500000.0
+C085|Oakridge Engineering Works|West|Large Enterprise|1800000.0
+C086|Silvercrest Business Services|North|Mid-Market|900000.0
+C087|Greenstone Manufacturing|South|SME|500000.0
+C088|Brightfield Industrial Systems|East|Large Enterprise|1800000.0
+C089|Pinebrook Commercial Solutions|West|Mid-Market|900000.0
+C090|Redwoodcrest Technologies|North|SME|500000.0
+C091|Clearbrook Engineering|South|Large Enterprise|1800000.0
+C092|Hillview Consumer Products|East|Mid-Market|
+C093|Westcrest Industrial Services|West|SME|500000.0
+C094|Eastpoint Business Solutions|North|Large Enterprise|1800000.0
+C095|Northwood Manufacturing|South|Mid-Market|900000.0
+C096|Southbrook Technologies|East|SME|500000.0
+C097|Riverfield Commercial Works|West|Large Enterprise|1800000.0
+C098|Bluecrest Engineering|North|Mid-Market|900000.0
+C099|Goldstone Industrial Supply|South|SME|500000.0
+C100|Cedarfield Business Systems|East|Large Enterprise|1800000.0
+C101|Grandview Technologies|West|Mid-Market|900000.0
+C102|Maplewood Consumer Goods|North|SME|500000.0
+C103|Harborcrest Manufacturing|South|Large Enterprise|1800000.0
+C104|Oakfield Commercial Services|East|Mid-Market|900000.0
+C105|Silverfield Engineering|West|SME|500000.0
+C106|Greenbrook Industrial Solutions|North|Large Enterprise|1800000.0
+C107|Brightcrest Technologies|South|Mid-Market|900000.0
+C108|Pinewood Business Services|East|SME|500000.0
+C109|Redstone Consumer Products|West|Large Enterprise|1800000.0
+C110|Clearfield Manufacturing|North|Mid-Market|900,000
+C111|Hillcrest Industrial Systems|South|SME|500000.0
+C112|Westwood Engineering|East|Large Enterprise|1800000.0
+C113|Eastcrest Commercial Solutions|West|Mid-Market|900000.0
+C114|Northpoint Technologies|North|SME|500000.0
+C115|Southwood Business Works|South|Large Enterprise|1800000.0
+C116|Riverstone Consumer Goods|East|Mid-Market|900000.0
+C117|Bluefield Industrial Services|West|SME|500000.0
+C118||North|Large Enterprise|1800000.0
+C119|Cedarcrest Technologies|South|Mid-Market|900000.0
+C120|Grandfield Manufacturing|East|SME|500000.0
+C121|Maplebrook Commercial Systems|West|Large Enterprise|1800000.0
+C122|Harborwood Business Solutions|North|Mid-Market|900000.0
+C123|Oakcrest Industrial Products|South|SME|500000.0
+C124|Silverwood Engineering Works|East|Large Enterprise|1800000.0
+C125|Greencrest Technologies|West|Mid-Market|900000.0
+C126|Brightwood Engineering Solutions|North|SME|500000.0
+C127|Pinefield Commercial Systems||Large Enterprise|1800000.0
+C128|Meridian Ridge Business 128|East|Mid-Market|900000.0
+C129|Meridian Ridge Business 129|West|SME|500000.0
+C130|Meridian Ridge Business 130|North|Large Enterprise|1800000.0
+C131|Meridian Ridge Business 131|South|Mid-Market|900000.0
+C132|Meridian Ridge Business 132|East|SME|500000.0
+C133|Meridian Ridge Business 133|West|Large Enterprise|1800000.0
+C134|Meridian Ridge Business 134|North|Mid-Market|900000.0
+C135|Meridian Ridge Business 135|South|SME|500000.0
+C136|Meridian Ridge Business 136|East|Large Enterprise|1800000.0
+C137|Meridian Ridge Business 137|West|Mid-Market|900000.0
+C138|Meridian Ridge Business 138|North|SME|500000.0
+C139|Meridian Ridge Business 139|South||1800000.0
+C140|Meridian Ridge Business 140|East|Mid-Market|900000.0
+C141|Meridian Ridge Business 141|West|SME|500000.0
+C104 |Oakfield Commercial Services |WEST|Mid-Market|400000.0
+C142|Meridian Ridge Business 142|North|Large Enterprise|1800000.0
+C143|Meridian Ridge Business 143|South|Mid-Market|900000.0
+C144|Meridian Ridge Business 144|East|SME|500000.0
+C145|Brightwood Engineering Solutions	|West|Large Enterprise|1800000.0
+C146|Meridian Ridge Business 146|North|Mid-Market|900000.0
+C147|Meridian Ridge Business 147|South|SME|500000.0
+C148|Meridian Ridge Business 148|East|Large Enterprise|1800000.0
+C149|Meridian Ridge Business 149|West|Mid-Market|900000.0
+C150|Meridian Ridge Business 150|North|SME|500000.0
+C104 |Oakfield Commercial Services |East|Mid-Market|900000.0

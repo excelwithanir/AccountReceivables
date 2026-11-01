@@ -1,0 +1,2271 @@
+{
+  "source_system": "Customer Relationship Archive",
+  "extract_version": "2026.08",
+  "customers": [
+    {
+      "customer": {
+        "id": "C001",
+        "name": "Apex Meridian Industries",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 2500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C002",
+        "name": "BlueRiver Mobility Solutions",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 1200000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C003",
+        "name": "Crestline Consumer Products",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C004",
+        "name": "Northstar Technology Works",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 3000000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C005",
+        "name": "SilverOak Office Systems",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 1000000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C006",
+        "name": "Himalaya Harvest Foods",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 350000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C007",
+        "name": "Westbridge Auto Components",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 2200000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C008",
+        "name": "Harborview Industrial Supplies",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C009",
+        "name": "Pioneer Business Services",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 400000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C010",
+        "name": "Southern Crest Engineering",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 2800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C011",
+        "name": "Chennai Digital Works",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 1100000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C012",
+        "name": " Bengaluru Office Mart ",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 450000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C013",
+        "name": "Eastern Horizon Traders",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 2500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C014",
+        "name": "Kolkata Commerce House",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": null
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C015",
+        "name": "Sunrise Consumer Goods",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 300000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C016",
+        "name": "Greenfield Manufacturing",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C017",
+        "name": "Riverstone Engineering",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C018",
+        "name": "MapleCore Business Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C019",
+        "name": "Vertex Industrial Systems",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C020",
+        "name": "Summit Trade Services",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C021",
+        "name": "Oakridge Distribution",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C022",
+        "name": "ClearPath Technologies",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C023",
+        "name": "BluePeak Components",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C024",
+        "name": "Evercrest Manufacturing",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C025",
+        "name": "GoldenArc Industries",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C026",
+        "name": "UrbanEdge Solutions",
+        "location": {
+          "region": "north"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C027",
+        "name": "BrightForge Engineering",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C028",
+        "name": "PrimeVista Services",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C029",
+        "name": "Redwood Commercial Systems",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C030",
+        "name": "Skyline Industrial Products",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C031",
+        "name": "CedarPoint Technologies",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C032",
+        "name": "Meadowbrook Consumer Goods",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C033",
+        "name": "Ironwood Engineering",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C034",
+        "name": "Lakeside Business Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C035",
+        "name": "Grandview Trading",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C036",
+        "name": "Silverline Industrial Works",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C037",
+        "name": "Eastgate Technology Services",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C038",
+        "name": "Westfield Components",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C039",
+        "name": "Northbridge Manufacturing",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C040",
+        "name": "Southgate Engineering",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C041",
+        "name": "Riverside Office Solutions",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": " SME "
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C042",
+        "name": "Hillcrest Consumer Products",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C043",
+        "name": "Stonebridge Industrial Supply",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C044",
+        "name": "Parkview Business Systems",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C045",
+        "name": "Oakfield Engineering",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C046",
+        "name": "Crownridge Technologies",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C047",
+        "name": "Brightstone Commercial",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C048",
+        "name": "Evergreen Industrial Services",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C049",
+        "name": "Clearwater Manufacturing",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C050",
+        "name": "Meridian Crest Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C051",
+        "name": "BlueOak Trading",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C052",
+        "name": "Redstone Engineering Works",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C053",
+        "name": "Pinehill Technologies",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C054",
+        "name": "Goldcrest Consumer Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C055",
+        "name": "Riverbend Industrial Systems",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C056",
+        "name": "Summitview Services",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C057",
+        "name": "Eastbrook Manufacturing",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C058",
+        "name": "Westhaven Commercial",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C059",
+        "name": "Northfield Business Solutions",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C060",
+        "name": "Southridge Industrial Products",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C061",
+        "name": "Mapleview Engineering",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C062",
+        "name": "Harborstone Technologies",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C063",
+        "name": "Cedarbrook Consumer Goods",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C064",
+        "name": "Grandstone Trading Works",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": null
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C065",
+        "name": "Lighthouse Business Services",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C066",
+        "name": "Oakmont Industrial Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C067",
+        "name": "Silverbrook Engineering",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C068",
+        "name": "Greenridge Technologies",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C069",
+        "name": "Brightwater Commercial Systems",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C070",
+        "name": "Pinecrest Manufacturing",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C071",
+        "name": "Ravenstone Industrial Works",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C072",
+        "name": "Clearview Consumer Products",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C073",
+        "name": "Hillstone Business Solutions",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C074",
+        "name": "Westbrook Engineering",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C075",
+        "name": "Eastwood Industrial Supply",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C076",
+        "name": "Northcrest Technologies",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C077",
+        "name": "Southfield Commercial Services",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C078",
+        "name": "silverfield engineering",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C079",
+        "name": "Bluehill Business Systems",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C080",
+        "name": "Goldenbrook Engineering",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C081",
+        "name": "Stonefield Consumer Goods",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C082",
+        "name": "Crestwood Industrial Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C083",
+        "name": "Maplecrest Technologies",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C084",
+        "name": "Harborfield Trading",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C085",
+        "name": "Oakridge Engineering Works",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C086",
+        "name": "Silvercrest Business Services",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C087",
+        "name": "Greenstone Manufacturing",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C088",
+        "name": "Brightfield Industrial Systems",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C089",
+        "name": "Pinebrook Commercial Solutions",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C090",
+        "name": "Redwoodcrest Technologies",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C091",
+        "name": "Clearbrook Engineering",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C092",
+        "name": "Hillview Consumer Products",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C093",
+        "name": "Westcrest Industrial Services",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C094",
+        "name": "Eastpoint Business Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C095",
+        "name": "Northwood Manufacturing",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C096",
+        "name": "Southbrook Technologies",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C097",
+        "name": "Riverfield Commercial Works",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C098",
+        "name": "Bluecrest Engineering",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C099",
+        "name": "Goldstone Industrial Supply",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C100",
+        "name": "Cedarfield Business Systems",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C101",
+        "name": "Grandview Technologies",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C102",
+        "name": "Maplewood Consumer Goods",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C103",
+        "name": "Harborcrest Manufacturing",
+        "location": {
+          "region": " WEST "
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C104",
+        "name": "Oakfield Commercial Services",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C105",
+        "name": "Silverfield Engineering",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C106",
+        "name": "Greenbrook Industrial Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C107",
+        "name": "Brightcrest Technologies",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C108",
+        "name": "Pinewood Business Services",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C109",
+        "name": "Redstone Consumer Products",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C110",
+        "name": "Clearfield Manufacturing",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C111",
+        "name": "Hillcrest Industrial Systems",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C112",
+        "name": "Westwood Engineering",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C113",
+        "name": "Eastcrest Commercial Solutions",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C114",
+        "name": "Northpoint Technologies",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C115",
+        "name": "Southwood Business Works",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C116",
+        "name": "Riverstone Consumer Goods",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C117",
+        "name": "Bluefield Industrial Services",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C118",
+        "name": "Goldbrook Engineering",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C119",
+        "name": "Cedarcrest Technologies",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": null
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C120",
+        "name": "Grandfield Manufacturing",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C121",
+        "name": "Maplebrook Commercial Systems",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C122",
+        "name": "Harborwood Business Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C123",
+        "name": "Oakcrest Industrial Products",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C124",
+        "name": "Silverwood Engineering Works",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C125",
+        "name": "Greencrest Technologies",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C126",
+        "name": "Brightwood Engineering Solutions",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C127",
+        "name": "Pinefield Commercial Systems",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C128",
+        "name": "Meridian Ridge Business 128",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C129",
+        "name": "Meridian Ridge Business 129",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C130",
+        "name": "Meridian Ridge Business 130",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C131",
+        "name": "Meridian Ridge Business 131",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C132",
+        "name": "Meridian Ridge Business 132",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C133",
+        "name": "Meridian Ridge Business 133",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C134",
+        "name": "Meridian Ridge Business 134",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C135",
+        "name": "Meridian Ridge Business 135",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C136",
+        "name": "Meridian Ridge Business 136",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C137",
+        "name": "  Grandcrest Engineering  ",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C138",
+        "name": "Meridian Ridge Business 138",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C139",
+        "name": "Meridian Ridge Business 139",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C140",
+        "name": "Meridian Ridge Business 140",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C141",
+        "name": "Meridian Ridge Business 141",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C142",
+        "name": "Meridian Ridge Business 142",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C143",
+        "name": "Meridian Ridge Business 143",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C144",
+        "name": "Meridian Ridge Business 144",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C145",
+        "name": "Meridian Ridge Business 145",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C146",
+        "name": "Meridian Ridge Business 146",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C147",
+        "name": "Meridian Ridge Business 147",
+        "location": {
+          "region": "South"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C148",
+        "name": "Meridian Ridge Business 148",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Large Enterprise"
+        },
+        "credit": {
+          "limit": 1800000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C149",
+        "name": "Meridian Ridge Business 149",
+        "location": {
+          "region": "West"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C150",
+        "name": "Meridian Ridge Business 150",
+        "location": {
+          "region": "North"
+        },
+        "classification": {
+          "segment": "SME"
+        },
+        "credit": {
+          "limit": 500000.0
+        }
+      }
+    },
+    {
+      "customer": {
+        "id": "C128",
+        "name": "Meridian Ridge Business 128 ",
+        "location": {
+          "region": "East"
+        },
+        "classification": {
+          "segment": "Mid-Market"
+        },
+        "credit": {
+          "limit": 900000.0
+        }
+      }
+    }
+  ]
+}
